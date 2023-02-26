@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedPrefDemo</string>
+    <string name="click_here">Click Here</string>
+    <string name="page_2">Page 2</string>
+</resources>
